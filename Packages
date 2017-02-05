@@ -1,0 +1,390 @@
+Package: com.antique.ahoyhoy
+Version: 2.9-1+debug
+Section: Beta
+Maintainer: Antique
+Depends: mobilesubstrate, com.antique.infinios
+Architecture: iphoneos-arm
+Filename: ./debs/Ahoyhoy.deb
+Size: 11048
+Installed-Size: 148
+MD5sum: c3453e48888a4fd65bd8140f2be4bae3
+Name: Ahoyhoy
+Author: Antique
+Icon: / file:///Applications/Cydia.app/Sections/Tweaks.png
+
+Package: com.antique.apollo
+Version: 2.4.7
+Section: Beta
+Maintainer: Antique
+Depends: mobilesubstrate, com.antique.infinios, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Filename: ./debs/Apollo.deb
+Size: 5782
+Installed-Size: 136
+MD5sum: 32289d3fd3182f24985934622e95c436
+Name: Apollo
+Author: Antique
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+
+Package: com.antique.appitizer
+Version: 1.00.3
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Depends: firmware (>= 8.4), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/Appitizer.deb
+Size: 127442
+Installed-Size: 460
+MD5sum: 4dd0a5df794a39fa6545afca6a47c848
+Description: Legacy iOS 9 App Switcher
+Name: Appitizer
+Author: Antique <boernai290@gmail.com>
+
+Package: com.antique.blurst
+Version: 0.4a
+Section: Development
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/Blurst.deb
+Size: 10344
+Installed-Size: 288
+MD5sum: e12908efde3e3a24ecec3d3d948054ce
+Name: Blurst
+Author: Antique <boernai290@gmail.com>
+
+Package: com.antique.buzz
+Version: 8.3.4
+Section: Beta
+Maintainer: Antique
+Depends: mobilesubstrate, com.antique.infinios
+Architecture: iphoneos-arm
+Filename: ./debs/Buzz.deb
+Size: 7496
+Installed-Size: 140
+MD5sum: c3d4b08c978b37745f27b65f1941b3a8
+Name: Buzz
+Author: Antique
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+
+Package: com.antique.camhdr+
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/CamHDR.deb
+Size: 3408
+Installed-Size: 120
+MD5sum: bf720878a13270cae8c5a8ae0a42344b
+Description: An awesome MobileSubstrate tweak!
+Name: CamHDR+
+Author: Antique
+
+Package: com.antique.chatter
+Version: 0.3.9
+Section: Beta
+Maintainer: Antique
+Depends: mobilesubstrate, com.antique.infinios, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Filename: ./debs/Chatty.deb
+Size: 8578
+Installed-Size: 144
+MD5sum: ed5b82774c9c93ec2dc6a664e3b9a8eb
+Name: Chatty
+Author: Antique
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+
+Package: com.antique.haptic10
+Version: 1.27.4
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/Haptic.deb
+Size: 9928
+Installed-Size: 284
+MD5sum: e057327569923d61551ba5f560944eaf
+Name: Haptic10
+Author: Antique
+
+Package: com.antique.homi+
+Version: 0.1.47
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Filename: ./debs/HomiPlus.deb
+Size: 13724
+Installed-Size: 304
+MD5sum: 974d3a538615f8d44c5ffb95db99d16a
+Description: Remove Dock. Add Icons & Much More.
+Name: Homi+
+Author: Antique
+
+Package: com.antique.infinios
+Version: 3.01.6
+Section: Beta
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, com.antique.chatter, com.antique.shutterbug, com.antique.sys+, com.antique.apollo, com.antique.buzz, com.antique.springify, com.antique.ahoyhoy, com.antique.safaron
+Architecture: iphoneos-arm
+Filename: ./debs/InfiniOS.deb
+Size: 72486
+Installed-Size: 348
+MD5sum: c8f0eb521f69daf51e5da287a1574b3e
+Description: Bring your dreams and imagination to life!
+Name: InfiniOS
+Author: Antique <boernai290@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+
+Package: com.antique.live+
+Version: 1.0-7
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/Live.deb
+Size: 9624
+Installed-Size: 252
+MD5sum: 7edb516efb08b1b314a6e7a25b1a0515
+Name: Live+
+Author: Antique
+
+Package: com.antique.lowpowernolock
+Version: 2.7
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/LowPowerNoLock.deb
+Size: 3752
+Installed-Size: 136
+MD5sum: 644c71ee8952522a30d53c4ea81e039e
+Description: Low Power Mode and No Autolock Working Together
+Name: LowPowerNoLock
+Author: Antique
+
+Package: com.antique.lsnobatt
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/LSNoBatt.deb
+Size: 3640
+Installed-Size: 136
+MD5sum: e1c0011a0eff69e9ae2f5340d4163a3a
+Description: An awesome MobileSubstrate tweak!
+Name: LSNoBatt
+Author: Antique
+
+Package: com.antique.lunasafari
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/LunaSafari.deb
+Size: 4762
+Installed-Size: 120
+MD5sum: 530d692e20a06b9e5c375e605b3f0408
+Description: An awesome MobileSubstrate tweak!
+Name: LunaSafari
+Author: Antique
+
+Package: com.antique.mmguesses
+Version: 1.3a-2+debug
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/MMGuesses.deb
+Size: 3662
+Installed-Size: 136
+MD5sum: 7aa267a9dfc56e386bf578e05e5065a2
+Description: Unlimited Guesses
+Name: MMGuesses
+Author: Antique
+
+Package: com.antique.muesly
+Version: 1.0
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/Muesly.deb
+Size: 9372
+Installed-Size: 252
+MD5sum: e44c4e780819058b9057b42fb37915e6
+Name: Muesly
+Author: Antique
+
+Package: com.antique.noclickhome
+Version: 1.1.7
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/NoClickHome.deb
+Size: 4548
+Installed-Size: 136
+MD5sum: 425fd1541e7807ad4a41280340437de1
+Name: NoClickHome
+Author: Antique
+
+Package: com.antique.nomoreexpire
+Version: 0.3a
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/NoMoreExpire.deb
+Size: 3764
+Installed-Size: 136
+MD5sum: 0d65a54c7acc4cd224c50f9a004c1545
+Description: Remove App Expiration Forever!
+Name: NoMoreExpire
+Author: Antique
+
+Package: com.antique.nosleeppls
+Version: 0.4-1
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/NoSleepPls.deb
+Size: 8832
+Installed-Size: 284
+MD5sum: 70e0a7475845abaf81c27f130d9f18f3
+Description: Keep that pesky lockscreen awake for longer
+Name: NoSleepPls
+Author: Antique
+
+Package: com.antique.orelse
+Version: 0.12.7
+Section: Beta
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/OrElse.deb
+Size: 4394
+Installed-Size: 200
+MD5sum: 943e8b4b7ed5569e95e5b9acaacddbd4
+Description: Are you being lazy? Set an alert!
+Name: OrElse
+Author: Antique
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+
+Package: com.antique.outofcontrol
+Version: 6.1a
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/OutOfControl.deb
+Size: 3956
+Installed-Size: 136
+MD5sum: 97889928ff3ebf5165193e8f80ce8545
+Description: Randomised Control Center Toggle Colours
+Name: OutOfControl
+Author: Antique <boernai290@gmail.com>
+
+Package: com.antique.rotolock
+Version: 0.2-1
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/RotoLock.deb
+Size: 3238
+Installed-Size: 136
+MD5sum: cdc2d03e242637824330720b735d5339
+Description: Force rotation of the Lockscreen
+Name: RotoLock
+Author: Antique
+
+Package: com.antique.safaron
+Version: 2.2
+Section: Beta
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate, com.antique.infinios
+Architecture: iphoneos-arm
+Filename: ./debs/Safaron.deb
+Size: 6608
+Installed-Size: 136
+MD5sum: 6961e90bacd55fbd44a0473ee8d11644
+Name: Safaron
+Author: Antique <boernai290@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+
+Package: com.antique.sbunlocked
+Version: 0.35a
+Section: iOS 10
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/SBUnlocked.deb
+Size: 11396
+Installed-Size: 288
+MD5sum: 383dcbc39871e11a620943fa08935988
+Description: Customisable Homescreen, Lockscreen, Notification Center, Control Center, Status Bar and more.
+Name: SBUnlocked
+Author: Antique <boernai290@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
+
+Package: com.antique.shutterbug
+Version: 0.4.6
+Section: Beta
+Maintainer: Antique
+Depends: mobilesubstrate, com.antique.infinios
+Architecture: iphoneos-arm
+Filename: ./debs/ShutterBug.deb
+Size: 5398
+Installed-Size: 136
+MD5sum: 1bca3d4f91e873ed1e056d5d6d1a6763
+Name: ShutterBug
+Author: Antique
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+
+Package: com.antique.springify
+Version: 2.6a
+Section: Beta
+Maintainer: Antique
+Depends: mobilesubstrate, com.antique.infinios
+Architecture: iphoneos-arm
+Filename: ./debs/Springify.deb
+Size: 4098
+Installed-Size: 136
+MD5sum: ca540bf0604f44f96a93398e947ffb81
+Name: Springify
+Author: Antique
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+
+Package: com.antique.swipeebar
+Version: 1.1.37
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/SwipeeBar.deb
+Size: 4780
+Installed-Size: 136
+MD5sum: 79a1253d86f8950caba36d0f3f7b90f4
+Description: Enhanced Scrolling for Table Views
+Name: SwipeeBar
+Author: Antique <boernai290@gmail.com>
+
+Package: com.antique.sys+
+Version: 1.2.6
+Section: Beta
+Maintainer: Antique
+Depends: mobilesubstrate, com.antique.infinios
+Architecture: iphoneos-arm
+Filename: ./debs/Sys.deb
+Size: 4842
+Installed-Size: 136
+MD5sum: 8c60868bfc7635e142b41b2f9d863cf6
+Name: Sys+
+Author: Antique
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+
