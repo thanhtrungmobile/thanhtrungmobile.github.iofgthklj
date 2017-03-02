@@ -1,0 +1,8 @@
+Package: com.antique.camhdr+
+Name: CamHDR+
+Depends: mobilesubstrate
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: Antique
+Author: Antique
+Section: Tweaks
