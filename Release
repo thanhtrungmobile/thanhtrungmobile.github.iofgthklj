@@ -1,7 +1,7 @@
-Origin: Antique's Beta Repo
-Label: Antique's Beta
+Origin: Antique's Cydia Repo
+Label: Antique's Cydia Repo
 Suite: stable
-Version: 10.2_0
+Version: 10.2
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
