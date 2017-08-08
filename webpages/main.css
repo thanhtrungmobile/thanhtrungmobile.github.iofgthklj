@@ -1,0 +1,8 @@
+div.trending {
+  background-color: black;
+  width: 20%;
+  height: 20%;
+
+  margin: 0 0 0 0;
+  display: inline-block;
+}
