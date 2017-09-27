@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerCellClass</key>
+			<string>MiniCCCustomCell</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+<key>footerText</key>
+<string>Changes the Control Center Size</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+		<string>com.antique.minicc</string>
+			<key>key</key>
+			<string>CCStyle</string>
+			<key>label</key>
+			<string>Enable MiniCC</string>
+		</dict>
+						<dict>
+			<key>cell</key>
+			<string>PSSegmentCell</string>
+			<key>defaults</key>
+		<string>com.antique.minicc</string>
+			<key>key</key>
+			<string>ccstyle</string>
+			<key>validTitles</key>
+			<array>
+				<string>Original</string>
+				<string>Mini</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<integer>0</integer>
+                          <integer>1</integer>
+			</array>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+<key>footerText</key>
+<string>Changes the App Center Size</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+		<string>com.antique.minicc</string>
+			<key>key</key>
+			<string>ACStyle</string>
+			<key>label</key>
+			<string>Enable MiniAC</string>
+		</dict>
+						<dict>
+			<key>cell</key>
+			<string>PSSegmentCell</string>
+			<key>defaults</key>
+		<string>com.antique.minicc</string>
+			<key>key</key>
+			<string>acstyle</string>
+			<key>validTitles</key>
+			<array>
+				<string>Original</string>
+				<string>Mini</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<integer>2</integer>
+                          <integer>3</integer>
+			</array>
+		</dict>
+	</array>
+	<key>title</key>
+	<string></string>
+</dict>
+</plist>

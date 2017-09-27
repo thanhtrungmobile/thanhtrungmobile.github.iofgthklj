@@ -1,0 +1,9 @@
+Package: com.antique.3dnodiv10
+Name: 3DNoDiv10
+Depends: mobilesubstrate
+Version: 0_1.2
+Architecture: iphoneos-arm
+Description: Remove the 3D Touch Separators for iOS 10!
+Maintainer: Antique
+Author: Antique
+Section: Tweaks

@@ -1,0 +1,9 @@
+Package: com.antique.blurst
+Name: Blurst
+Depends: mobilesubstrate
+Version: 0.8
+Architecture: iphoneos-arm
+Maintainer: Antique <boernai290@gmail.com>
+Author: Antique <boernai290@gmail.com>
+Depiction: https://antiquebeta.github.io/blurst.html
+Section: Development

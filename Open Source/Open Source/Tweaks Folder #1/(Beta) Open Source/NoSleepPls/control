@@ -1,0 +1,9 @@
+Package: com.antique.nosleeppls
+Name: NoSleepPls
+Depends: mobilesubstrate
+Version: 0.4-1
+Architecture: iphoneos-arm
+Description: Keep that pesky lockscreen awake for longer
+Maintainer: Antique
+Author: Antique
+Section: Tweaks

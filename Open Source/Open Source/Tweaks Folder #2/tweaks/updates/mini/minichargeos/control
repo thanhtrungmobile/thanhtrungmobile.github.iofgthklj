@@ -1,0 +1,8 @@
+Package: com.antique.minichargeos
+Name: MiniChargeOS
+Depends: mobilesubstrate
+Version: 0.14
+Architecture: iphoneos-arm
+Maintainer: Antique
+Author: Antique
+Section: Tweaks

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerCellClass</key>
+			<string>MiniBarCustomCell</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+<key>footerText</key>
+<string>Changes the Status Bar Size</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+		<string>com.antique.minibar</string>
+			<key>key</key>
+			<string>SBStyle</string>
+			<key>label</key>
+			<string>Enable MiniBar</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSegmentCell</string>
+			<key>defaults</key>
+		<string>com.antique.minibar</string>
+			<key>key</key>
+			<string>sbstyle</string>
+			<key>validTitles</key>
+			<array>
+				<string>Original</string>
+	                   <string>Mini</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<integer>0</integer>
+                          <integer>1</integer>
+			</array>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+<dict>
+       <key>cell</key>
+       <string>PSButtonCell</string>
+       <key>action</key>
+       <string>respring</string>
+       <key>label</key>
+       <string>Respring</string>
+</dict>
+	</array>
+	<key>title</key>
+	<string></string>
+</dict>
+</plist>

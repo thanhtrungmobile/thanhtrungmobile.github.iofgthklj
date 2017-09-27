@@ -1,0 +1,9 @@
+Package: com.antique.rotolock
+Name: RotoLock
+Depends: mobilesubstrate
+Version: 0.2-1
+Architecture: iphoneos-arm
+Description: Force rotation of the Lockscreen
+Maintainer: Antique
+Author: Antique
+Section: Tweaks

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerCellClass</key>
+			<string>NotificationCenterCustomCell</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+</dict>
+<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>NotificationColourListController</string>
+			<key>label</key>
+			<string>Buzzer Colours</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>NCDateLabel</string>
+			<key>label</key>
+			<string>Hide Date Label</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>NCEditButton</string>
+			<key>label</key>
+			<string>Hide Edit Button</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>NCHideSwitch</string>
+			<key>label</key>
+			<string>Hide NC Segments</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>NCBHidden</string>
+			<key>label</key>
+			<string>Hide NC Today Footer</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>NCDateColour</string>
+			<key>label</key>
+			<string>Date Label Black/White</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Buzzer</string>
+</dict>
+</plist>

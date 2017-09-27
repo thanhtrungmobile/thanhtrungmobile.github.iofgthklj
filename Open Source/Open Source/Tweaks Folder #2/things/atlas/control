@@ -1,0 +1,9 @@
+Package: com.antique.atlas
+Name: Atlas
+Depends: mobilesubstrate
+Version: z1.0
+Architecture: iphoneos-arm
+Description: New CC Style for iOS 10
+Maintainer: Antique
+Author: Antique
+Section: Tweaks

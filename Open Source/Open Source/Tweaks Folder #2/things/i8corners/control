@@ -1,0 +1,10 @@
+Package: com.antique.i8corners
+Name: i8Corners
+Depends: mobilesubstrate
+Version: 0.12
+Description: iPhone 8 inspired screen corners
+Depiction: https://antiquebeta.github.io/i8corners.html
+Architecture: iphoneos-arm
+Maintainer: Antique <boernai290@gmail.com>
+Author: Antique <boernai290@gmail.com>
+Section: Tweaks

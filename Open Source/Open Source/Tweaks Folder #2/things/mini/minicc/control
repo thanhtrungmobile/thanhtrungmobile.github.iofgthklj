@@ -1,0 +1,10 @@
+Package: com.antique.minicc
+Name: MiniCC
+Depends: mobilesubstrate
+Version: 1.78
+Architecture: iphoneos-arm
+Description: Mini Control Center for iOS 10
+Depiction: https://antiquebeta.github.io/minicc.html
+Maintainer: Antique
+Author: Antique
+Section: Tweaks

@@ -1,0 +1,9 @@
+Package: com.antique.lightscameralive
+Name: LightsCameraLIVE
+Depends: mobilesubstrate
+Version: 10.0
+Architecture: iphoneos-arm
+Description: Enable Live Photos on all iDevices
+Maintainer: Antique
+Author: Antique
+Section: Tweaks

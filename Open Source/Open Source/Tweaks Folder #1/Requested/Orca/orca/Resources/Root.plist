@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.orca</string>
+			<key>key</key>
+			<string>Power</string>
+			<key>label</key>
+			<string>Enable Power Counter</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.orca</string>
+			<key>key</key>
+			<string>Volume</string>
+			<key>label</key>
+			<string>Enable Volume Counter</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.orca</string>
+			<key>key</key>
+			<string>Home</string>
+			<key>label</key>
+			<string>Enable Home Counter</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Orca</string>
+</dict>
+</plist>

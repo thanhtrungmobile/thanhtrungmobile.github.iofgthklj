@@ -1,0 +1,8 @@
+Package: com.antique.live+
+Name: Live+
+Depends: mobilesubstrate
+Version: 1.0-7
+Architecture: iphoneos-arm
+Maintainer: Antique
+Author: Antique
+Section: Tweaks

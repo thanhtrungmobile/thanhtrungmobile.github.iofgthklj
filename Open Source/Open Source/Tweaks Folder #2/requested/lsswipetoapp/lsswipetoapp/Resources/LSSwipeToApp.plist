@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.lsswipetoapp</string>
+			<key>key</key>
+			<string>isTweakEnabled</string>
+			<key>label</key>
+			<string>Enable</string>
+			<key>PostNotification</key>
+			<string>com.antique.lsswipetoapp.preferences-changed</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Choose App -> Respring -> Swipe -> Ta daaaa🎉</string>
+		</dict>
+		<dict>
+			<key>ALAllowsSelection</key>
+			<true/>
+			<key>ALChangeNotification</key>
+			<string>com.antique.lsswipetoapp.preferences-changed</string>
+			<key>ALSettingsDefaultValue</key>
+			<false/>
+			<key>ALSettingsKey</key>
+			<string>LSSTA_AppId</string>
+			<key>ALSettingsPath</key>
+			<string>/var/mobile/Library/Preferences/com.antique.lsswipetoapp.plist</string>
+			<key>ALSingleEnabledMode</key>
+			<true/>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>bundle</key>
+			<string>AppList</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>Enabled App</string>
+		</dict>
+<dict>
+			<key>action</key>
+			<string>respringButton:</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>loading.png</string>
+			<key>label</key>
+			<string>Respring</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Follow me for general tweakiness or for just a chat</string>
+		</dict>
+<dict>
+			<key>action</key>
+			<string>followOnTwitter:</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>Twitter.png</string>
+			<key>label</key>
+			<string>Follow @Antique_Dev</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>LSSwipeToApp</string>
+</dict>
+</plist>

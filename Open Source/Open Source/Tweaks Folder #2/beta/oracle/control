@@ -1,0 +1,9 @@
+Package: com.antique.oracle
+Name: Oracle
+Depends: mobilesubstrate
+Version: 1.1.1
+Architecture: iphoneos-arm
+Description: Show the background app on the LS
+Maintainer: Antique
+Author: Antique
+Section: Tweaks

@@ -1,0 +1,9 @@
+Package: com.antique.bassdrop
+Name: Bass Drop
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Custom options for your devices respring!
+Maintainer: Antique
+Author: Antique
+Section: Tweaks
+Version: 1.0

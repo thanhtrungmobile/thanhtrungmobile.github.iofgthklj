@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Control Center: Top Menu</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.sbunlocked</string>
+			<key>key</key>
+			<string>CCData</string>
+			<key>label</key>
+			<string>Enable CC Mobile Data</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.sbunlocked</string>
+			<key>key</key>
+			<string>CCLow</string>
+			<key>label</key>
+			<string>Enable CC Low Power Mode</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Control Center: Middle Menu</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.sbunlocked</string>
+			<key>key</key>
+			<string>CCAir</string>
+			<key>label</key>
+			<string>Disable CC AirStuff</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.sbunlocked</string>
+			<key>key</key>
+			<string>CCNight</string>
+			<key>label</key>
+			<string>Disable CC NightMode</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Control Center: Bottom Menu</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.sbunlocked</string>
+			<key>key</key>
+			<string>CCRec</string>
+			<key>label</key>
+			<string>Enable CC Screen Recorder</string>
+		</dict>
+
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Control Center: Miscellaneous</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.sbunlocked</string>
+			<key>key</key>
+			<string>CCDView</string>
+			<key>label</key>
+			<string>Disable CC Dark Background</string>
+		</dict>
+		<dict>
+	<key>cell</key>
+	<string>PSSwitchCell</string>
+	<key>default</key>
+	<false/>
+	<key>defaults</key>
+      <string>com.antique.sbunlocked</string>
+	<key>key</key>
+	<string>CCVisi</string>
+	<key>label</key>
+	<string>Enable CC Transparency</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Control Center</string>
+</dict>
+</plist>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerCellClass</key>
+			<string>ApolloCustomCell</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+</dict>
+<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+	<string>ApolloColourListController</string>
+			<key>label</key>
+			<string>Apollo Colours</string>
+		</dict>
+	<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+<key>label</key>
+			<string>Apollo: Main Options</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>ApolloSleeker</string>
+			<key>label</key>
+			<string>Sleeker Control Center</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>ApolloStyle</string>
+			<key>label</key>
+			<string>Stylish Control Center</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>ApolloDarkBackgrounds</string>
+			<key>label</key>
+			<string>Hide Dark Backgrounds</string>
+		</dict>
+	<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+<key>label</key>
+			<string>Apollo: Music Control Options</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>ApolloMusicSplit</string>
+			<key>label</key>
+			<string>Control Center Split Music Controls</string>
+		</dict>
+
+	<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+<key>label</key>
+			<string>Apollo: Top Toggle Options</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>ApolloAir</string>
+			<key>label</key>
+			<string>Hide Aeroplane Mode Toggle</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>ApolloWiFi</string>
+			<key>label</key>
+			<string>Hide WiFi Toggle</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>ApolloBlue</string>
+			<key>label</key>
+			<string>Hide Bluetooth Toggle</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>ApolloDND</string>
+			<key>label</key>
+			<string>Hide Do Not Disturb Toggle</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>ApolloOrientation</string>
+			<key>label</key>
+			<string>Hide Orientation Lock Toggle</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>ApolloData</string>
+			<key>label</key>
+			<string>Hide Mobile Data Toggle</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>ApolloPower</string>
+			<key>label</key>
+			<string>Hide Low Power Mode Toggle</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Apollo</string>
+</dict>
+</plist>

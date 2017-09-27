@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>HSListController</string>
+			<key>icon</key>
+			<string>HS@2x.png</string>
+			<key>label</key>
+			<string>Home Screen Settings</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>CCListController</string>
+			<key>icon</key>
+			<string>CC@2x.png</string>
+			<key>label</key>
+			<string>Control Center Settings</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>SBUnlocked</string>
+</dict>
+</plist>

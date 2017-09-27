@@ -1,0 +1,10 @@
+Package: com.antique.surge
+Name: Surge
+Depends: mobilesubstrate
+Version: 0.4
+Architecture: iphoneos-arm
+Description: Enter awesome description here
+Depiction: https://antiquebeta.github.io/surge.html
+Maintainer: Antique
+Author: Antique, sk8r, gilshahar7, uroboro
+Section: Tweaks

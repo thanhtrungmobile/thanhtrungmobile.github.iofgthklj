@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+<key>footerText</key>
+<string>Step 1. Download an audio file(2s) and save it to Filza
+
+Step 2. Locate and move the audio in Filza to /Library/Application Support/MiniChargeOS.bundle
+
+Step 3. Delete the original audio(Custom.caf) and rename your audio to 'Custom.caf'
+
+Step 4. Respring to hear your new chime.
+</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSStaticTextCell</string>
+			<key>label</key>
+			<string>👇🏼 How 👇🏼</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Chime</string>
+</dict>
+</plist>

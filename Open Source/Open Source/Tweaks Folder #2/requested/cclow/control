@@ -1,0 +1,9 @@
+Package: com.cabralcole.cclowpower
+Name: CCLowPower
+Depends: mobilesubstrate, firmware (>= 10.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Low power mode in control center.
+Maintainer: cole cabral
+Author: cole cabral
+Section: Tweaks

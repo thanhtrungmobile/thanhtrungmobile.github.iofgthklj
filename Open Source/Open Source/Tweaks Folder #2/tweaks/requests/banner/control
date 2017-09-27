@@ -1,0 +1,9 @@
+Package: red.antique.macnotifier
+Name: MacNotifier
+Depends: mobilesubstrate
+Version: 0.4.4
+Architecture: iphoneos-arm
+Description:
+Maintainer: Antique
+Author: Antique
+Section: Tweaks

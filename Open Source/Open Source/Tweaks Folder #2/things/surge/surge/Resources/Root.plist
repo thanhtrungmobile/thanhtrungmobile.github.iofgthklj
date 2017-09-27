@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerCellClass</key>
+			<string>SurgeCustomCell</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+<key>label</key>
+<string>Surge Theming Options</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSliderCell</string>
+			<key>default</key>
+			<integer>168</integer>
+			<key>defaults</key>
+			<string>com.antique.surge</string>
+			<key>key</key>
+			<string>dotsHeight</string>
+			<key>max</key>
+			<real>195</real>
+			<key>min</key>
+			<real>125</real>
+			<key>showValue</key>
+			<true/>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+		<string>com.antique.surge</string>
+			<key>PostNotification</key>
+			<string>com.antique.surge.reload</string>
+			<key>key</key>
+			<string>kBlur</string>
+			<key>label</key>
+			<string>Enable Background Blur</string>
+		</dict>
+						<dict>
+			<key>cell</key>
+			<string>PSSegmentCell</string>
+			<key>defaults</key>
+		<string>com.antique.surge</string>
+			<key>key</key>
+			<string>blurstyle</string>
+			<key>validTitles</key>
+			<array>
+				<string>Light Mode</string>
+				<string>Dark Mode</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<integer>1</integer>
+                          <integer>2</integer>
+			</array>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+		<string>com.antique.surge</string>
+			<key>PostNotification</key>
+			<string>com.antique.surge.reload</string>
+			<key>key</key>
+			<string>kBorder</string>
+			<key>label</key>
+			<string>Enable Dot Borders</string>
+		</dict>
+						<dict>
+			<key>cell</key>
+			<string>PSSegmentCell</string>
+			<key>defaults</key>
+		<string>com.antique.surge</string>
+			<key>key</key>
+			<string>dotborder</string>
+			<key>validTitles</key>
+			<array>
+				<string>Light Dot Borders</string>
+				<string>Dark Dot Borders</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<integer>3</integer>
+				<integer>4</integer>
+			</array>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+		<string>com.antique.surge</string>
+			<key>PostNotification</key>
+			<string>com.antique.surge.reload</string>
+			<key>key</key>
+			<string>kDot</string>
+			<key>label</key>
+			<string>Enable Dot Colours</string>
+		</dict>
+						<dict>
+			<key>cell</key>
+			<string>PSSegmentCell</string>
+			<key>defaults</key>
+		<string>com.antique.surge</string>
+			<key>key</key>
+			<string>dotstyle</string>
+			<key>validTitles</key>
+			<array>
+				<string>Simple</string>
+				<string>Advanced</string>
+                          
+			</array>
+			<key>validValues</key>
+			<array>
+				<integer>5</integer>
+				<integer>6</integer>
+                          
+			</array>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+<dict>
+<key>action</key>
+<string>credits</string>
+<key>height</key>
+<string>38</string>
+<key>cell</key>
+<string>PSButtonCell</string>
+<key>label</key>
+<string>Credits</string>
+</dict>
+	</array>
+	<key>title</key>
+	<string>Surge</string>
+</dict>
+</plist>

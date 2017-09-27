@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+<key>footerText</key>
+<string>Step 1. Create an icon 196x196px and save it to your Camera Roll
+
+Step 2. Locate and move the icon in Filza to /Library/PreferenceBundles/MiniChargeOS.bundle
+
+Step 3. Rename/Delete the original Icon(Watch) and rename your image to 'custom.png'
+
+Step 4. Respring to see your new icon.
+
+
+
+Information: 
+- Camera Roll images are located in /var/mobile/Media/DCIM/</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSStaticTextCell</string>
+			<key>label</key>
+			<string>👇🏼 How 👇🏼</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Icon</string>
+</dict>
+</plist>

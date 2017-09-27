@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerCellClass</key>
+			<string>ChameleonCustomCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Added:
+
+- Disable Folder Titles</string>
+			<key>label</key>
+			<string>Update #1</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Added:
+
+- Disable Uninstall
+- Disable Updated</string>
+			<key>label</key>
+			<string>Update #2</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Added:
+
+- Disable LS Battery
+- Disable CC
+- Disable Volume HUD</string>
+			<key>label</key>
+			<string>Update #3</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Added:
+
+- Custom 3D Touch Shortcut Menu Height
+	•• Enter your desired amount
+	•• Pressing "Return" activates Twitter post - Updates soon</string>
+			<key>label</key>
+			<string>Update #4</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Added:
+
+- Miscellaneous Settings
+- 3D Touch Settings
+- Beta section:
+		- ChatKit Settings
+		- GEOPlatform Settings
+		- PhotoLibrary Settings
+		- UIKit Settings</string>
+			<key>label</key>
+			<string>Update #5</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Added:
+
+- ChatKit
+	- Disable Export
+	- Disable Text Message
+	- Disable Delete
+	- Disable Forward
+	- Disable Drawer Layout
+	- Disable Message Display
+	- Disable Tail
+	- Disable Editable
+
+		- Disable Blue/Green Bubbles
+
+		- Disable Leave(Group Only)</string>
+			<key>label</key>
+			<string>Update #6</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Added:
+
+- GEOPlatform
+		- Enable iOS 9 Features
+		- Enable Maps Freedom
+		- Enable Navigation
+		- Enable Watch Pairing
+		- Enable 3D Touch
+		- Enable Real Tiles</string>
+			<key>label</key>
+			<string>Update #7</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Added:
+
+- PhotoLibrary
+		- Disable Recently Deleted</string>
+			<key>label</key>
+			<string>Update #8</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Added:
+
+- UIKit
+	- Hide Separators
+	- Hide StatusBar(LS &amp; HS)</string>
+			<key>label</key>
+			<string>Update #9</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Changelog</string>
+</dict>
+</plist>

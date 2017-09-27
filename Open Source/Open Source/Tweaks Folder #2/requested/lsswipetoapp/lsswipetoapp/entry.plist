@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = LSSwipeToApp;
+	cell = PSLinkCell;
+	detail = LSSwipeToAppListController;
+	icon = icon.png;
+	isController = 1;
+	label = LSSwipeToApp;
+    };
+}

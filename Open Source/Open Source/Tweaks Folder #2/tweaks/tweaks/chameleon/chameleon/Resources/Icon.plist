@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerCellClass</key>
+			<string>ChameleonCustomCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Chameleon - Icon Settings</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.antique.chameleon/settingschanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.chameleon</string>
+			<key>key</key>
+			<string>BetaDot</string>
+			<key>label</key>
+			<string>Never Show Beta Dot</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.antique.chameleon/settingschanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.chameleon</string>
+			<key>key</key>
+			<string>IconTitle</string>
+			<key>label</key>
+			<string>Remove Icon Labels</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.antique.chameleon/settingschanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.chameleon</string>
+			<key>key</key>
+			<string>UninstallSupported</string>
+			<key>label</key>
+			<string>Disable Uninstall</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.antique.chameleon/settingschanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.chameleon</string>
+			<key>key</key>
+			<string>Updated</string>
+			<key>label</key>
+			<string>Disable Updated</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.antique.chameleon/settingschanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.chameleon</string>
+			<key>key</key>
+			<string>Badge</string>
+			<key>label</key>
+			<string>Disable Badges</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>uicache</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Respring</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Icons</string>
+</dict>
+</plist>

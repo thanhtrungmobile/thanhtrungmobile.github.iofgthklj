@@ -1,0 +1,9 @@
+Package: com.antique.health
+Name: Health
+Depends: mobilesubstrate
+Version: 16.23
+Architecture: iphoneos-arm
+Description: Health!
+Maintainer: Antique <boernai290@gmail.com>
+Author: Antique <boernai290@gmail.com>
+Section: Tweaks

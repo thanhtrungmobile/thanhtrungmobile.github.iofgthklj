@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerCellClass</key>
+			<string>SysCustomCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+<dict>
+			<key>PostNotification</key>
+			<string>com.antique.infinios/settingschanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>SysCinemaMode</string>
+			<key>label</key>
+			<string>Cinema Mode</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+<dict>
+			<key>PostNotification</key>
+			<string>com.antique.infinios/settingschanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>Title</string>
+			<key>label</key>
+			<string>Hide Titles</string>
+		</dict>
+<dict>
+			<key>PostNotification</key>
+			<string>com.antique.infinios/settingschanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>Icon</string>
+			<key>label</key>
+			<string>Hide Icons</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Sys+</string>
+</dict>
+</plist>

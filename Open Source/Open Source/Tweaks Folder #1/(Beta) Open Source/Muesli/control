@@ -1,0 +1,8 @@
+Package: com.antique.muesly
+Name: Muesly
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Antique
+Author: Antique
+Section: Tweaks

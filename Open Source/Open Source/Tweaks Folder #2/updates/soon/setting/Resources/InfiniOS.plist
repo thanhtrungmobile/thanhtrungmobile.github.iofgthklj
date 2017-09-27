@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerCellClass</key>
+			<string>InfiniOSCustomCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.antique.infinios/settingschanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>Enabled</string>
+			<key>label</key>
+			<string>Enabled</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+									 <key>label</key>
+									 <string>Stock App Settings</string>
+<key>footerText</key>
+ <string>Kill apps to apply changes</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>MessagesListController</string>
+			<key>icon</key>
+			<string></string>
+			<key>label</key>
+			<string>Messages Settings</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>SysListController</string>
+			<key>icon</key>
+			<string></string>
+			<key>label</key>
+			<string>Preferences Settings</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>CamListController</string>
+			<key>icon</key>
+			<string></string>
+			<key>label</key>
+			<string>Camera Settings</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>SnappedListController</string>
+			<key>icon</key>
+			<string></string>
+			<key>label</key>
+			<string>Photos Settings</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>AhoyListController</string>
+			<key>icon</key>
+			<string></string>
+			<key>label</key>
+			<string>Phone Settings</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>SafaronListController</string>
+			<key>icon</key>
+			<string></string>
+			<key>label</key>
+			<string>Safari Settings</string>
+		</dict>
+ <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+									 <key>label</key>
+									 <string>System Settings</string>
+<key>footerText</key>
+ <string>Respring to apply some changes</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>	<string>SpringifyListController</string>
+			<key>icon</key>
+			<string></string>
+			<key>label</key>
+			<string>Home Screen Settings</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>ApolloListController</string>
+			<key>icon</key>
+			<string></string>
+			<key>label</key>
+			<string>Control Center Settings</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>	<string>NotificationCenterListController</string>
+			<key>icon</key>
+			<string></string>
+			<key>label</key>
+			<string>Notification Center Settings</string>
+		</dict>
+ <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>HelpListController</string>
+			<key>icon</key>
+			<string></string>
+			<key>label</key>
+			<string>Information Sheet</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>CreditsListController</string>
+			<key>icon</key>
+			<string></string>
+			<key>label</key>
+			<string>Credits</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>InfiniOS</string>
+</dict>
+</plist>

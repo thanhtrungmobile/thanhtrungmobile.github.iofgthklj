@@ -1,0 +1,9 @@
+Package: com.antique.mirian
+Name: Mirian
+Depends: mobilesubstrate
+Version: 1.3
+Architecture: iphoneos-arm
+Description: 
+Maintainer: Antique <boernai290@gmail.com>
+Author: Antique <boernai290@gmail.com>
+Section: Tweaks

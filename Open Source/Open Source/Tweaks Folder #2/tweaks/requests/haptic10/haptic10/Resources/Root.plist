@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerCellClass</key>
+			<string>HapticCustomCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+                    <key>footerText</key>
+                    <string>Home Button</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.haptic10</string>
+			<key>key</key>
+			<string>HomeVibrate</string>
+			<key>label</key>
+			<string>Enable Haptic Feedback</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+                    <key>footerText</key>
+                    <string>Volume Button's</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.haptic10</string>
+			<key>key</key>
+			<string>VolumeVibrate</string>
+			<key>label</key>
+			<string>Enable Haptic Feedback</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Haptic10</string>
+</dict>
+</plist>

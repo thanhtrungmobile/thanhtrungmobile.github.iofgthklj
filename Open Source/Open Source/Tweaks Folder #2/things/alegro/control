@@ -1,0 +1,9 @@
+Package: com.antique.alegro
+Name: Alegro
+Depends: mobilesubstrate
+Version: 0.0.7
+Architecture: iphoneos-arm
+Description: Boo
+Maintainer: Antique
+Author: Antique
+Section: Tweaks

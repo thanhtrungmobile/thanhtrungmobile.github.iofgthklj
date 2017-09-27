@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+			<dict>
+				<key>cell</key>
+				<string>PSLinkListCell</string>
+				<key>default</key>
+				<real>1.0</real>
+				<key>defaults</key>
+				<string>com.antique.taptapcclight</string>
+				<key>key</key>
+				<string>delta</string>
+				<key>label</key>
+				<string>Increase Amount</string>
+				<key>PostNotification</key>
+				<string>com.antique.taptapcclight.settingschanged</string>
+				<key>detail</key>
+				<string>PSListItemsController</string>
+				<key>validValues</key>
+				<array>
+					<real>0.05</real>
+					<real>0.1</real>
+					<real>0.2</real>
+					<real>0.25</real>
+					<real>0.5</real>
+					<real>1.0</real>
+				</array>
+				<key>validTitles</key>
+				<array>
+					<string>5%</string>
+					<string>10%</string>
+					<string>20%</string>
+					<string>25%</string>
+					<string>50%</string>
+					<string>100%</string>
+				</array>
+			</dict>
+			<dict>
+				<key>cell</key>
+				<string>PSLinkListCell</string>
+				<key>default</key>
+				<real>1.0</real>
+				<key>defaults</key>
+				<string>com.antique.taptapcclight</string>
+				<key>key</key>
+				<string>deltaDown</string>
+				<key>label</key>
+				<string>Decrease Amount</string>
+				<key>PostNotification</key>
+				<string>com.antique.taptapcclight.settingschanged</string>
+				<key>detail</key>
+				<string>PSListItemsController</string>
+				<key>validValues</key>
+				<array>
+					<real>0.05</real>
+					<real>0.1</real>
+					<real>0.2</real>
+					<real>0.25</real>
+					<real>0.5</real>
+					<real>1.0</real>
+				</array>
+				<key>validTitles</key>
+				<array>
+					<string>5%</string>
+					<string>10%</string>
+					<string>20%</string>
+					<string>25%</string>
+					<string>50%</string>
+					<string>100%</string>
+				</array>
+			</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+		<string>com.antique.taptapcclight</string>
+<key>PostNotification</key>				<string>com.antique.taptapcclight.settingschanged</string>
+<key>key</key>
+			<string>hapticFeed</string>
+			<key>label</key>
+			<string>Enable Haptic Feedback</string>
+</dict>
+<dict>
+<key>action</key>
+<string>boot</string>
+<key>height</key>
+<string>36</string>
+<key>cell</key>
+<string>PSButtonCell</string>
+<key>label</key>
+<string>Respring</string>
+</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+<key>footerText</key>
+<string>Developed by @Antique_Dev © 2017. All Rights Reserved</string>
+		</dict>
+  <dict>
+      <key>cell</key>
+         <string>PSStaticTextCell</string>
+<key>footerText</key>
+<string>Developed by @Antique_Dev © 2017. All Rights Reserved</string>
+         <key>icon</key>
+         <string>version.png</string>
+         <key>label</key>
+         <string>Version: 4.6</string>
+      </dict>
+	</array>
+	<key>title</key>
+	<string>TapTapCCLight</string>
+</dict>
+</plist>

@@ -1,0 +1,9 @@
+Package: com.antique.mmguesses
+Name: MMGuesses
+Depends: mobilesubstrate
+Version: 1.3a
+Architecture: iphoneos-arm
+Description: Unlimited Guesses
+Maintainer: Antique
+Author: Antique
+Section: Tweaks

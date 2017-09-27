@@ -1,0 +1,9 @@
+Package: com.antique.orca
+Name: Orca
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Always know the most recent app used before unlocking
+Maintainer: Antique
+Author: Antique
+Section: Tweaks

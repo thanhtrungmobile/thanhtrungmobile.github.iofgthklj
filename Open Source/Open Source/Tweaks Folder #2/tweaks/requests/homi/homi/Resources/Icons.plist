@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+<dict>
+<key>cell</key>
+<string>PSGroupCell</string>
+</dict>
+		                <dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.homi</string>
+			<key>key</key>
+			<string>IconJiggle</string>
+			<key>label</key>
+			<string>Enable Icon Wiggle(Buggy)</string>
+		</dict>
+<dict>
+<key>cell</key>
+<string>PSGroupCell</string>
+</dict>
+		                <dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.homi</string>
+			<key>key</key>
+			<string>Square</string>
+			<key>label</key>
+			<string>Enable Square Icons</string>
+		</dict>
+<dict>
+<key>cell</key>
+<string>PSGroupCell</string>
+</dict>
+		                <dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.homi</string>
+			<key>key</key>
+			<string>HideLabel</string>
+			<key>label</key>
+			<string>Hide Icon Labels</string>
+		</dict>
+<dict>
+<key>cell</key>
+<string>PSGroupCell</string>
+</dict>
+<dict>
+<key>cell</key>
+<string>PSGroupCell</string>
+</dict>
+			                <dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+                    <key>enabled</key>
+                    <string>false</string>
+			<key>defaults</key>
+			<string>com.antique.homi</string>
+			<key>key</key>
+			<string>IconSize</string>
+			<key>label</key>
+			<string>Enable Custom Size</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+			<key>defaults</key>
+			<string>com.antique.homi</string>
+			<key>detail</key>
+			<string>PSDetailController</string>
+			<key>key</key>
+			<string>kIconSize</string>
+			<key>label</key>
+			<string></string>
+			<key>placeholder</key>
+			<string>Icon Size(Not Available Yet)</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Homi+: Icon Options</string>
+</dict>
+</plist>

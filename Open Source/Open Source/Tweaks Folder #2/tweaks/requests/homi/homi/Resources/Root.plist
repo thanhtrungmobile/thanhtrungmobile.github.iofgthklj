@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+<dict>
+<key>cell</key>
+<string>PSGroupCell</string>
+</dict>
+<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>IconListController</string>
+			<key>icon</key>
+			<string></string>
+			<key>label</key>
+			<string>Icon Options</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>TouchListController</string>
+			<key>icon</key>
+			<string></string>
+			<key>label</key>
+			<string>3D Touch Options</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>BitsListController</string>
+			<key>icon</key>
+			<string></string>
+			<key>label</key>
+			<string>Miscellaneous Options</string>
+		</dict>
+<dict>
+<key>cell</key>
+<string>PSGroupCell</string>
+<key>label</key>
+			<string>Homi+ Options</string>
+			<key>footerText</key>
+			<string>Default: 5 • Min: 1 • Max: 6</string>
+</dict>
+		                <dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.homi</string>
+			<key>key</key>
+			<string>kRows</string>
+			<key>label</key>
+			<string>Custom Icon Rows</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+			<key>defaults</key>
+			<string>com.antique.homi</string>
+			<key>detail</key>
+			<string>PSDetailController</string>
+			<key>key</key>
+			<string>kRows</string>
+			<key>label</key>
+			<string></string>
+			<key>placeholder</key>
+			<string>Rows Value</string>
+		</dict>
+<dict>
+<key>cell</key>
+<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Default: 13.5 • Min: 1 • Max: 50</string>
+</dict>
+		                <dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.homi</string>
+			<key>key</key>
+			<string>kCorner</string>
+			<key>label</key>
+			<string>Custom Icon Corners</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+			<key>defaults</key>
+			<string>com.antique.homi</string>
+			<key>detail</key>
+			<string>PSDetailController</string>
+			<key>key</key>
+			<string>kCorner</string>
+			<key>label</key>
+			<string></string>
+			<key>placeholder</key>
+			<string>Icon Corner Value</string>
+		</dict>
+<dict>
+<key>cell</key>
+<string>PSGroupCell</string>
+</dict>
+<dict>
+<key>cell</key>
+<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Default: 95 • Min: 0 • Max: 120</string>
+</dict>
+		                <dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.homi</string>
+			<key>key</key>
+			<string>kDock</string>
+			<key>label</key>
+			<string>Custom Dock Height</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+			<key>defaults</key>
+			<string>com.antique.homi</string>
+			<key>detail</key>
+			<string>PSDetailController</string>
+			<key>key</key>
+			<string>kDock</string>
+			<key>label</key>
+			<string></string>
+			<key>placeholder</key>
+			<string>Dock Height Value</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Homi+: Home</string>
+</dict>
+</plist>

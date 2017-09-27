@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerCellClass</key>
+			<string>MiniChargeOSCustomCell</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+		<string>com.antique.minichargeos</string>
+			<key>key</key>
+			<string>Enabled</string>
+			<key>label</key>
+			<string>Enable MiniChargeOS</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+<key>label</key>
+<string>Style Options - Blur</string>
+		</dict>
+						<dict>
+			<key>cell</key>
+			<string>PSSegmentCell</string>
+			<key>defaults</key>
+		<string>com.antique.minichargeos</string>
+			<key>key</key>
+			<string>style</string>
+			<key>validTitles</key>
+			<array>
+				<string>Light Mode</string>
+				<string>Dark Mode</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<integer>1</integer>
+				<integer>2</integer>
+			</array>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+<key>label</key>
+<string>Style Options - Background</string>
+		</dict>
+				<dict>
+			<key>cell</key>
+			<string>PSSegmentCell</string>
+			<key>defaults</key>
+		<string>com.antique.minichargeos</string>
+			<key>key</key>
+			<string>back</string>
+			<key>validTitles</key>
+			<array>
+				<string>User</string>
+				<string>Custom</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<integer>5</integer>
+				<integer>6</integer>
+			</array>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>BGListController</string>
+			<key>icon</key>
+			<string></string>
+			<key>label</key>
+			<string>Changing the background</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+<key>label</key>
+<string>Style Options - Icon</string>
+		</dict>
+						<dict>
+			<key>cell</key>
+			<string>PSSegmentCell</string>
+			<key>defaults</key>
+		<string>com.antique.minichargeos</string>
+			<key>key</key>
+			<string>version</string>
+			<key>validTitles</key>
+			<array>
+				<string>WatchOS</string>
+                          <string>Custom</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<integer>3</integer>
+				<integer>4</integer>
+			</array>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>IconListController</string>
+			<key>icon</key>
+			<string></string>
+			<key>label</key>
+			<string>Changing the custom icon</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+<key>label</key>
+<string>Audio Options - Connected Chime</string>
+		</dict>
+				<dict>
+			<key>cell</key>
+			<string>PSSegmentCell</string>
+			<key>defaults</key>
+		<string>com.antique.minichargeos</string>
+			<key>key</key>
+			<string>audio</string>
+			<key>validTitles</key>
+			<array>
+				<string>Watch Chime</string>
+				<string>Custom Chime</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<integer>7</integer>
+				<integer>8</integer>
+			</array>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>ChimeListController</string>
+			<key>icon</key>
+			<string></string>
+			<key>label</key>
+			<string>Changing the custom chime</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+<dict>
+       <key>cell</key>
+       <string>PSGroupCell</string>
+<key>footerText</key>
+<string>NanoChargingView by @bellis1000 / @iKilledAppl3
+MiniChargeOS by @Antique_Dev</string>
+<key>footerAlignment</key>
+<string>1</string>
+</dict>
+<dict>
+       <key>cell</key>
+       <string>PSButtonCell</string>
+<key>icon</key>
+       <string>tweet.png</string>
+<key>height</key>
+       <string>42</string>
+       <key>action</key>
+       <string>antique</string>
+       <key>label</key>
+       <string>@Antique_Dev</string>
+</dict>
+<dict>
+       <key>cell</key>
+       <string>PSButtonCell</string>
+<key>icon</key>
+       <string>tweet.png</string>
+<key>height</key>
+       <string>42</string>
+       <key>action</key>
+       <string>bellis</string>
+       <key>label</key>
+       <string>@bellis1000</string>
+</dict>
+<dict>
+       <key>cell</key>
+       <string>PSButtonCell</string>
+<key>icon</key>
+       <string>tweet.png</string>
+<key>height</key>
+       <string>42</string>
+       <key>action</key>
+       <string>killedapple</string>
+       <key>label</key>
+       <string>@iKilledAppl3</string>
+</dict>
+	</array>
+	<key>title</key>
+	<string>MiniChargeOS</string>
+</dict>
+</plist>

@@ -1,0 +1,8 @@
+Package: com.antique.noclickhome
+Name: NoClickHome
+Depends: mobilesubstrate
+Version: 1.1.7
+Architecture: iphoneos-arm
+Maintainer: Antique
+Author: Antique
+Section: Tweaks

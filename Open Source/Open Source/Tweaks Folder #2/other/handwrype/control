@@ -1,0 +1,9 @@
+Package: com.antique.handwrype
+Name: Handwrype
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Alternative Typing Indicator
+Maintainer: Antique
+Author: Antique
+Section: Tweaks

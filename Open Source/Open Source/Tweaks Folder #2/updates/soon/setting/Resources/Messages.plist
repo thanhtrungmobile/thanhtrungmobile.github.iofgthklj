@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerCellClass</key>
+			<string>MessagesCustomCell</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+</dict>
+<!-- 
+<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>ChattyColourListController</string>
+			<key>label</key>
+			<string>Chatty Colours</string>
+		</dict>
+-->
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>ChattyCinemaMode</string>
+			<key>label</key>
+			<string>Cinema Mode</string>
+		</dict>
+<!-- 
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+                   <key>label</key>
+                   <string>Chatty: Main Options</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>Export</string>
+			<key>label</key>
+			<string>Disable Export</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>TextMessage</string>
+			<key>label</key>
+			<string>Disable Text Message</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>Delete</string>
+			<key>label</key>
+			<string>Disable Delete</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>Forward</string>
+			<key>label</key>
+			<string>Disable Forward</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>DrawerLayout</string>
+			<key>label</key>
+			<string>Disable Drawer Layout</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>Tail</string>
+			<key>label</key>
+			<string>Disable Tail</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>Editable</string>
+			<key>label</key>
+			<string>Disable Editable</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+<key>label</key>
+                   <string>Chatty: Bubble Options</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>Green</string>
+			<key>label</key>
+			<string>Disable Green</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>Blue</string>
+			<key>label</key>
+			<string>Disable Blue</string>
+		</dict>
+-->
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+<key>label</key>
+                   <string>Chatty: Conversations Options</string>
+		</dict>
+ <dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>ChattyPreview</string>
+			<key>label</key>
+			<string>Hide Preview Label</string>
+		</dict>
+ <dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>ChattyUnread</string>
+			<key>label</key>
+			<string>Hide Unread Dot</string>
+		</dict>
+ <dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>ChattySender</string>
+			<key>label</key>
+			<string>Hide Contact Name</string>
+		</dict>
+                <dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>ChattyConvoHeight</string>
+			<key>label</key>
+			<string>Custom Conversations Height</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSliderCell</string>
+			<key>default</key>
+			<integer>78</integer>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>chattyconvoheight</string>
+			<key>max</key>
+			<real>85</real>
+			<key>min</key>
+			<real>50</real>
+			<key>showValue</key>
+			<false/>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+<key>label</key>
+                   <string>Chatty: Message Options</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>ChattyPlugs</string>
+			<key>label</key>
+			<string>Disable Message Plugins</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+<key>label</key>
+                   <string>Chatty: Information Options</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>ChattyPButton</string>
+			<key>label</key>
+			<string>Disable Phone Button</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>ChattyMButton</string>
+			<key>label</key>
+			<string>Disable Message Button</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>ChattyFTButton</string>
+			<key>label</key>
+			<string>Disable FaceTime Button</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.infinios</string>
+			<key>key</key>
+			<string>ChattyIButton</string>
+			<key>label</key>
+			<string>Disable Information Button</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Chatty</string>
+</dict>
+</plist>

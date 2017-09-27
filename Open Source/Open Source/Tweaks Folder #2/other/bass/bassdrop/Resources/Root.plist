@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>General</string>
+<key>footerAlignment</key>
+			<integer>1</integer>
+			<key>footerText</key>
+			<string>Please respring after enabling desired toggles.</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.bassdrop</string>
+			<key>key</key>
+			<string>enabled</string>
+			<key>label</key>
+			<string>Enabled</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Options</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.bassdrop</string>
+			<key>key</key>
+			<string>sound</string>
+			<key>label</key>
+			<string>Charging Sound</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.bassdrop</string>
+			<key>key</key>
+			<string>custom</string>
+			<key>label</key>
+			<string>Custom Charging Sound</string>
+		</dict>
+<dict>
+			<key>action</key>
+			<string>tutorial</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string></string>
+			<key>label</key>
+			<string>Tutorial: Custom Sound</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Other</string>
+<key>footerAlignment</key>
+			<integer>1</integer>
+			<key>footerText</key>
+			<string>@Antique_Dev © 2017. All Rights Reserved</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.bassdrop</string>
+			<key>key</key>
+			<string>screen</string>
+			<key>label</key>
+			<string>Disable Screen Activation</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>BassDrop</string>
+</dict>
+</plist>

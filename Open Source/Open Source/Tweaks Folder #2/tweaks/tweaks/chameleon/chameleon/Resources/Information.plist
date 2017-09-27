@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerCellClass</key>
+			<string>ChameleonCustomCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Page Dots: No Respring</string>
+			<key>label</key>
+			<string>Page Settings</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Force Enable HS Rotation: Respring • iPad Dock Rotation: Respring • iPhone 6+ Dock Rotation: Respring • Force LS Rotation: Respring</string>
+			<key>label</key>
+			<string>Rotation Settings</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Disable Voice Control: No Respring</string>
+			<key>label</key>
+			<string>Assistant Settings</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Disable Spotlight Search: No Respring</string>
+			<key>label</key>
+			<string>Spotlight Settings</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Disable LS Blur: Respring • Disable LS Tint: No Respring</string>
+			<key>label</key>
+			<string>Lockscreen Settings</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Allow Nested Folders: No Respring • Pinch To Close: No Respring • Newsstand Folders: Not Working • Disable Folder Titles: No Respring</string>
+			<key>label</key>
+			<string>Folder Settings</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Never Show Beta Dot: Respring • Remove Icon Labels: Respring • Disable Uninstall: No Respring • Disable Updated: No Respring</string>
+			<key>label</key>
+			<string>Icon Settings</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Faster Animations: Respring • Use Old CC Bounce: No Respring</string>
+			<key>label</key>
+			<string>Animation Settings</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Disable LS Battery: Respring • Disable CC: No Respring • Shorcuts Menu: No Respring</string>
+			<key>label</key>
+			<string>Miscellaneous Settings</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Information</string>
+</dict>
+</plist>

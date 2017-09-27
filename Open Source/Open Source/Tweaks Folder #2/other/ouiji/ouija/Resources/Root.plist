@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerCellClass</key>
+			<string>OuijaCustomCell</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+<key>footerText</key>
+<string>Custom background colour</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.ouija</string>
+			<key>key</key>
+			<string>EnableMain</string>
+			<key>label</key>
+			<string>Enable Main Color</string>
+		</dict>
+ <dict>
+            <key>cell</key>
+            <string>PSLinkCell</string>
+            <key>cellClass</key>
+            <string>PFSimpleLiteColorCell</string>
+            <key>libcolorpicker</key>
+            <dict>
+                <key>defaults</key>
+                <string>com.antique.ouija</string>
+                <key>key</key>
+                <string>dictColour2</string>
+                <key>fallback</key>
+                <string>#000000</string>
+                <key>alpha</key>
+                <true/>
+            </dict>
+            <key>label</key>
+            <string>Main Background Colour</string>
+        </dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+<key>footerText</key>
+<string>Choose between Normal and Siri mode</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+		<string>com.antique.ouija</string>
+			<key>key</key>
+			<string>DictationMode</string>
+			<key>label</key>
+			<string>Enable Dictation Mode</string>
+		</dict>
+						<dict>
+			<key>cell</key>
+			<string>PSSegmentCell</string>
+			<key>defaults</key>
+		<string>com.antique.ouija</string>
+			<key>key</key>
+			<string>dmode</string>
+			<key>validTitles</key>
+			<array>
+				<string>Normal</string>
+				<string>Siri</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<integer>0</integer>
+                          <integer>1</integer>
+			</array>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+<key>footerText</key>
+<string>Custom dictation background colour</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.ouija</string>
+			<key>key</key>
+			<string>EnableDict</string>
+			<key>label</key>
+			<string>Enable Dictation Color</string>
+		</dict>
+ <dict>
+            <key>cell</key>
+            <string>PSLinkCell</string>
+            <key>cellClass</key>
+            <string>PFSimpleLiteColorCell</string>
+            <key>libcolorpicker</key>
+            <dict>
+                <key>defaults</key>
+                <string>com.antique.ouija</string>
+                <key>key</key>
+                <string>dictColour</string>
+                <key>fallback</key>
+                <string>#000000</string>
+                <key>alpha</key>
+                <true/>
+            </dict>
+            <key>label</key>
+            <string>Dictation Background Colour</string>
+        </dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+<key>footerText</key>
+<string>Custom emoji scrubber colour</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.ouija</string>
+			<key>key</key>
+			<string>EnableMoji</string>
+			<key>label</key>
+			<string>Enable Emoji Scrubber Color</string>
+		</dict>
+ <dict>
+            <key>cell</key>
+            <string>PSLinkCell</string>
+            <key>cellClass</key>
+            <string>PFSimpleLiteColorCell</string>
+            <key>libcolorpicker</key>
+            <dict>
+                <key>defaults</key>
+                <string>com.antique.ouija</string>
+                <key>key</key>
+                <string>mojiColour</string>
+                <key>fallback</key>
+                <string>#000000</string>
+                <key>alpha</key>
+                <true/>
+            </dict>
+            <key>label</key>
+            <string>Emoji Scrubber Colour</string>
+        </dict>
+	</array>
+	<key>title</key>
+	<string></string>
+</dict>
+</plist>

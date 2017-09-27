@@ -1,0 +1,9 @@
+Package: com.antique.chameleon
+Name: Chameleon
+Depends: mobilesubstrate
+Version: 1.0.0.5
+Architecture: iphoneos-arm
+Description: Customize iOS 9 like never before.
+Maintainer: Antique
+Author: Antique
+Section: Tweaks

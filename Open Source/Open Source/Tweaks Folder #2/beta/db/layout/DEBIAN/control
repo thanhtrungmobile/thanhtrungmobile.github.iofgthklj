@@ -1,0 +1,10 @@
+Package: com.rpetrich.dietbar
+Priority: optional
+Section: Tweaks
+Architecture: iphoneos-arm
+Version: 1.2
+Description: Puts navigation bars on a diet!
+Name: DietBar
+Depends: mobilesubstrate, preferenceloader, applist (>= 1.4.3)
+Author: Ryan Petrich <rpetrich+dietbar@gmail.com>
+Maintainer: Antique <boernai290@gmail.com>

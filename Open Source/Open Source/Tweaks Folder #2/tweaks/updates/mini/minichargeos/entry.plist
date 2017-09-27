@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = MiniChargeOS;
+	cell = PSLinkCell;
+	detail = MiniChargeOSListController;
+	icon = MiniChargeOS.png;
+	isController = 1;
+	label = MiniChargeOS;
+    };
+}

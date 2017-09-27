@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerCellClass</key>
+			<string>MiniHUDCustomCell</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+<key>footerText</key>
+<string>Changes the VolumeHUD's Size</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+		<string>com.antique.minihud</string>
+			<key>key</key>
+			<string>VStyle</string>
+			<key>label</key>
+			<string>Enable MiniHUD</string>
+		</dict>
+								<dict>
+			<key>cell</key>
+			<string>PSSegmentCell</string>
+			<key>defaults</key>
+		<string>com.antique.minihud</string>
+			<key>key</key>
+			<string>hudstyle</string>
+			<key>validTitles</key>
+			<array>
+				<string>Small</string>
+	                   <string>Normal</string>
+				<string>Big</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<integer>1</integer>
+                          <integer>0</integer>
+				<integer>2</integer>
+			</array>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+<key>alignment</key>
+<integer>1</integer>
+                   <key>footerText</key>
+                   <string>Changes may require 10 seconds to take effect but a respring results in a definite change</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSStaticTextCell</string>
+			<key>label</key>
+			<string>Information</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string></string>
+</dict>
+</plist>

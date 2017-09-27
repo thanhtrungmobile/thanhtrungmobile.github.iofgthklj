@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string></string>
+			<key>footerText</key>
+			<string>Icons:: Default 20</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.appitizer</string>
+			<key>key</key>
+			<string>kIcon</string>
+			<key>label</key>
+			<string>︎︎👉🏼 App Icon Size 👈🏼</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSliderCell</string>
+			<key>default</key>
+			<integer>20</integer>
+			<key>defaults</key>
+			<string>com.antique.appitizer</string>
+			<key>key</key>
+			<string>iconSize</string>
+			<key>max</key>
+			<real>50</real>
+			<key>min</key>
+			<real>10</real>
+			<key>showValue</key>
+			<true/>
+		</dict>
+				<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string></string>
+			<key>footerText</key>
+			<string>Cards:: Default 8</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.appitizer</string>
+			<key>key</key>
+			<string>kCorner</string>
+			<key>label</key>
+			<string>︎︎👉🏼 App Card Corners 👈🏼</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSliderCell</string>
+			<key>default</key>
+			<integer>8</integer>
+			<key>defaults</key>
+			<string>com.antique.appitizer</string>
+			<key>key</key>
+			<string>cardCorner</string>
+			<key>max</key>
+			<real>16</real>
+			<key>min</key>
+			<real>0</real>
+			<key>showValue</key>
+			<true/>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Miscellaneous Options</string>
+			</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.appitizer</string>
+			<key>key</key>
+			<string>Alter</string>
+			<key>label</key>
+			<string>︎︎🎁 Surprise UI 🎁</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.appitizer</string>
+			<key>key</key>
+			<string>Night</string>
+			<key>label</key>
+			<string>︎︎🌑 Cinema Mode 🌑</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.appitizer</string>
+			<key>key</key>
+			<string>HideIcon</string>
+			<key>label</key>
+			<string>︎︎🗂 Hide Switcher Icons 🗂</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.appitizer</string>
+			<key>key</key>
+			<string>HideLabel</string>
+			<key>label</key>
+			<string>︎︎🏷 Hide Switcher Labels 🏷</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.appitizer</string>
+			<key>key</key>
+			<string>HideShadow</string>
+			<key>label</key>
+			<string>︎︎🌖 Hide Card Shadows 🌔</string>
+		</dict>
+
+	 <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerAlignment</key>
+			<integer>1</integer>
+			<key>footerText</key>
+			<string>AppSwiSizer created by: Thazsar © 2015 || Appitizer(AppSwiSizer) updated by Antique</string>
+			<key>label</key>
+			<string></string>
+		</dict>
+
+	</array>
+	<key>title</key>
+	<string>Appitizer</string>
+</dict>
+</plist>

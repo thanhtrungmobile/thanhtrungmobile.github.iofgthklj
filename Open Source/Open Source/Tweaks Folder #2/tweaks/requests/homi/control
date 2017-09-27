@@ -1,0 +1,9 @@
+Package: com.antique.homi+
+Name: Homi+
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Version: 0.1.47
+Architecture: iphoneos-arm
+Description: Remove Dock. Add Icons & Much More.
+Maintainer: Antique
+Author: Antique
+Section: Tweaks

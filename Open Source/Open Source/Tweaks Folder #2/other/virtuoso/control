@@ -1,0 +1,9 @@
+Package: com.simplydesigner.virtuoso
+Name: Virtuoso
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Stylish Mini Music Player for iOS 10
+Maintainer: Simply Designer
+Author: Simply Designer
+Section: Tweaks

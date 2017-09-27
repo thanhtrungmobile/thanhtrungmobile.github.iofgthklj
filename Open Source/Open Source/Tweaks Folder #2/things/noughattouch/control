@@ -1,0 +1,9 @@
+Package: com.antique.noughatmenu
+Name: NoughatMenu
+Depends: mobilesubstrate
+Version: 0.9.2
+Architecture: iphoneos-arm
+Description: Noughat Style 3D Touch Menus for iOS 10
+Maintainer: Antique <boernai290@gmail.com>
+Author: Antique <boernai290@gmail.com>
+Section: Tweaks

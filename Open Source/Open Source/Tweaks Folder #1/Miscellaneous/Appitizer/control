@@ -1,0 +1,9 @@
+Package: com.antique.appitizer
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.0
+Depends: firmware (>= 10.0), mobilesubstrate
+Description: Customisable App Switcher (iOS 10)
+Name: Appitizer
+Author: Antique <boernai290@gmail.com>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerCellClass</key>
+			<string>ChameleonCustomCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>red.antique.macnotifier/settingschanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>red.antique.macnotifier</string>
+			<key>key</key>
+			<string>Enabled</string>
+			<key>label</key>
+			<string>Enabled</string>
+		</dict>
+ <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>MacNotifier - Banner Settings</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>red.antique.macnotifier/settingschanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>red.antique.macnotifier</string>
+			<key>key</key>
+			<string>Icon</string>
+			<key>label</key>
+			<string>Disable Banner Icons</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>red.antique.macnotifier/settingschanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>red.antique.macnotifier</string>
+			<key>key</key>
+			<string>Action</string>
+			<key>label</key>
+			<string>Disable Banner Actions</string>
+		</dict>
+<dict>
+			<key>PostNotification</key>
+			<string>red.antique.macnotifier/settingschanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>red.antique.macnotifier</string>
+			<key>key</key>
+			<string>Grabber</string>
+			<key>label</key>
+			<string>Disable Banner Grabber</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+<dict>
+			<key>PostNotification</key>
+			<string>red.antique.macnotifier/settingschanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>red.antique.macnotifier</string>
+			<key>key</key>
+			<string>Title</string>
+			<key>label</key>
+			<string>Disable Banner Titles</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>red.antique.macnotifier</string>
+			<key>key</key>
+			<string>kHeight</string>
+			<key>label</key>
+			<string>Banner Height</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+			<key>defaults</key>
+			<string>red.antique.macnotifier</string>
+			<key>detail</key>
+			<string>PSDetailController</string>
+			<key>key</key>
+			<string>kHeight</string>
+			<key>label</key>
+			<string></string>
+			<key>placeholder</key>
+			<string>Height Value</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>respring</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Respring</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Chameleon</string>
+</dict>
+</plist>

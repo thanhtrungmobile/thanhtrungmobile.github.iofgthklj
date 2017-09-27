@@ -1,0 +1,9 @@
+Package: com.antique.auroramp
+Name: AuroraMP
+Depends: mobilesubstrate
+Version: 2.1.0
+Architecture: iphoneos-arm
+Description: Show 'Now Playing' in the CC
+Maintainer: Antique
+Author: Antique
+Section: Tweaks

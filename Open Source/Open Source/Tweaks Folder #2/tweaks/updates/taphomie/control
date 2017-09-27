@@ -1,0 +1,9 @@
+Package: com.theidevteam.cameverywhere
+Name: CamEverywhere
+Depends: mobilesubstrate
+Version: 2.37
+Architecture: iphoneos-arm
+Description: Access a small floating Camera view with any Activator gesture. Take a picture instantly.
+Maintainer: TheiDevTeam
+Author: TheiDevTeam
+Section: Tweaks

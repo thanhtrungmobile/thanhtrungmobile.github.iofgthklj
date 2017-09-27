@@ -1,0 +1,10 @@
+Package: com.antique.minihud
+Name: MiniHUD
+Depends: mobilesubstrate
+Version: 2_0.2
+Architecture: iphoneos-arm
+Description: Mini Volume HUD for iOS 10
+Depiction: https://antiquebeta.github.io/minihud.html
+Maintainer: Antique
+Author: Antique
+Section: Tweaks

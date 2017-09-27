@@ -1,0 +1,2 @@
+@interface SBUIIconForceTouchVisualEffectView : UIView
+@end

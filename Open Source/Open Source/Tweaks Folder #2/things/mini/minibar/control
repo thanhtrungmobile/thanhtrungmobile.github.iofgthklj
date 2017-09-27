@@ -1,0 +1,10 @@
+Package: com.antique.minibar
+Name: MiniBar
+Depends: mobilesubstrate
+Version: 0.3.8
+Architecture: iphoneos-arm
+Description: Mini Status Bar for iOS 10
+Depiction: https://antiquebeta.github.io/minibar.html
+Maintainer: Antique
+Author: Antique
+Section: Tweaks

@@ -1,0 +1,9 @@
+Package: com.antique.nomoreexpire
+Name: NoMoreExpire
+Depends: mobilesubstrate
+Version: 0.3a
+Architecture: iphoneos-arm
+Description: Remove App Expiration Forever!
+Maintainer: Antique
+Author: Antique
+Section: Tweaks

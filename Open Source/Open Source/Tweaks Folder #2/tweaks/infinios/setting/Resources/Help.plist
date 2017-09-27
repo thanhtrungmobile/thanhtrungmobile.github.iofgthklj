@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerCellClass</key>
+			<string>HelpCustomCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+<key>footerText</key>
+			<string>InfiniOS: Your device. Your rules
+InfiniOS is a tweak that allows it's user to customise every aspect of the iOS system. Below is a list of settings currently available which will be constantly updated as I add more options.</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+<string>Cinema Mode: Messages Dark Mode
+Disable Text Message: Disable Send as SMS
+Disable Delete: Disable Delete Button
+Disable Forward: Disable Forwarding
+Disable Drawer Layout: Not sure
+Disable Message Display: Not sure
+Disable Tail: Remove Tails
+Disable Editable: Disable Editable Messages
+
+Disable Green: Disable Green Bubbles
+Disable Blue: Disable Blue Bubbles
+
+Hide Conversation Label: Hide Conversation Preview</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSStaticTextCell</string>
+<key>label</key>
+<string>Messages Settings</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+<string>Hide Titles: Hide Cell Titles
+Hide Icons: Hide Cell Icons
+Cinema Mode: Preferences Dark Mode</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSStaticTextCell</string>
+<key>label</key>
+<string>Preferences Settings</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+<string>Hide Flash Button: Remove Flash Icon/Button
+Hide HDR Button: Remove HDR Icon/Flash
+Hide Iris Button: Remove Iris Icon/Button
+Hide Timer Button: Remove Timer Icon/Button
+Hide Flip Button: Remove Flip Icon/Button
+
+Hide Preview Button: Remove Photo Preview</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSStaticTextCell</string>
+<key>label</key>
+<string>Camera Settings</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+<string>Cinema Mode: Phone Dark Mode</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSStaticTextCell</string>
+<key>label</key>
+<string>Phone Settings</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+<string>Cinema Mode: Safari Dark Mode</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSStaticTextCell</string>
+<key>label</key>
+<string>Safari Settings</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+<string>Custom Icon Alpha: Icon Transparency</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSStaticTextCell</string>
+<key>label</key>
+<string>Home Screen Settings</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+<string>Hide Dark Bars: Remove AirPlay and Brightness Dark Bar
+Enable Rounded Corners: Enable iOS 10 Style Corners</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSStaticTextCell</string>
+<key>label</key>
+<string>Control Center Settings</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+<string>Hide Date Label: Remove Date/Time Label
+Hide Edit Button: Remove Edit Button
+Hide NC Segments: Hide NC Top Segments
+Hide NC Today Footer: Hide Edit Button Background
+Date Label Black/White: Change Date From White to Black</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSStaticTextCell</string>
+<key>label</key>
+<string>Notification Center Settings</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Information Sheet</string>
+</dict>
+</plist>

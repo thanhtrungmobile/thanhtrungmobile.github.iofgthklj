@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerCellClass</key>
+			<string>ChameleonCustomCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Chameleon - Lockscreen Settings</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.antique.chameleon/settingschanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.chameleon</string>
+			<key>key</key>
+			<string>LSBlur</string>
+			<key>label</key>
+			<string>Disable LS Blur</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.antique.chameleon/settingschanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.chameleon</string>
+			<key>key</key>
+			<string>LSTint</string>
+			<key>label</key>
+			<string>Disable LS Tint</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.antique.chameleon/settingschanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.chameleon</string>
+			<key>key</key>
+			<string>Date</string>
+			<key>label</key>
+			<string>Disable LS Date View</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.antique.chameleon/settingschanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.chameleon</string>
+			<key>key</key>
+			<string>ChargeView</string>
+			<key>label</key>
+			<string>Disable LS Charge View</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.antique.chameleon</string>
+			<key>key</key>
+			<string>kTime</string>
+			<key>label</key>
+			<string>LS Battery Time</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+			<key>defaults</key>
+			<string>com.antique.chameleon</string>
+			<key>detail</key>
+			<string>PSDetailController</string>
+			<key>key</key>
+			<string>kTime</string>
+			<key>label</key>
+			<string></string>
+			<key>placeholder</key>
+			<string>Set Time</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>respring</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Respring</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Lockscreen</string>
+</dict>
+</plist>

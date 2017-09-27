@@ -1,0 +1,9 @@
+Package: com.thecomputerwhisperer.antennaaemembers
+Name: AntennaRemembers
+Depends: mobilesubstrate
+Version: 2.0a
+Architecture: iphoneos-arm
+Description: Enables saving unlimited browsing history in Antenna app instead of default 5.
+Maintainer: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
+Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
+Section: Tweaks

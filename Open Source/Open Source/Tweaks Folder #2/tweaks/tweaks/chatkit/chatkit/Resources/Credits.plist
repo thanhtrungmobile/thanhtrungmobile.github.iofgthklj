@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerCellClass</key>
+			<string>CreditsCustomCell</string>
+		</dict>
+ <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+<key>footerText</key>
+ <string>Developer of Chameleon, ChatKit, BreadCrumbs10, MacNotifier and No More Deleted</string>
+</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSStaticTextCell</string>
+			<key>label</key>
+			<string>Antique</string>
+									 <key>icon</key>
+									 <string>antique.png</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+ <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+<key>label</key>
+<string>Co-Developers</string>
+<key>footerText</key>
+ <string>Developer of Lightify, Tweakify, ChatKit and NCTextColor</string>
+</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSStaticTextCell</string>
+			<key>label</key>
+			<string>sk8r</string>
+ <key>icon</key>
+									 <string>skate.png</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+		<key>cell</key>
+		<string>PSGroupCell</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Credits</string>
+</dict>
+</plist>
